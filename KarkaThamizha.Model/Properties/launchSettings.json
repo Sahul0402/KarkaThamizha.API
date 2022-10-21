@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "KarkaThamizha.Model": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:19833;http://localhost:19834"
+    }
+  }
+}
